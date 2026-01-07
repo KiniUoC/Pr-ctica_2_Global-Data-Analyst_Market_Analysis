@@ -87,8 +87,7 @@ PAISES = {
     "US": "https://www.indeed.com",     # EE.UU.
     "UK": "https://uk.indeed.com",      # Reino Unido
     "DE": "https://de.indeed.com",      # Alemania
-    "MX": "https://mx.indeed.com",      # México
-    "FR": "https://fr.indeed.com",      # Francia
+    
 }
 
 keyword = "data analyst"
