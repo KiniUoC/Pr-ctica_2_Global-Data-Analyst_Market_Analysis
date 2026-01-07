@@ -30,3 +30,11 @@ Este proyecto analiza ofertas de trabajo de Indeed en 4 países para determinar 
 - `/dataset`: Datos crudos y limpios.
 - `/figs`: Gráficos generados.
 - `/src`: Códigos.
+
+## 📚 Referencias y Fuentes de Datos
+Este estudio utiliza técnicas de *Data Fusion* cruzando datos de ofertas en tiempo real con estadísticas macroeconómicas oficiales:
+
+1.  **OECD (2024):** Salarios Medios Anuales (USD PPP).  
+    [https://data.oecd.org/earnwage/average-wages.htm](https://data.oecd.org/earnwage/average-wages.htm)
+2.  **Numbeo (2024):** Índice de Coste de Vida por País.  
+    [https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2024](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2024)
