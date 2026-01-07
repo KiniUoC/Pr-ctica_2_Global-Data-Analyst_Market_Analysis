@@ -1,16 +1,20 @@
 # M2.851 - Tipología y Ciclo de Vida de los Datos - Práctica_2_Global-Data-Analyst_Market_Analysis
 # 🌍 Análisis del Mercado Global de Data Analysts (2025)
 
-Este proyecto analiza ofertas de trabajo de Indeed en 6 países para determinar la rentabilidad real de la profesión.
+Este proyecto analiza ofertas de trabajo de Indeed en 4 países para determinar la rentabilidad real de la profesión.
 
 ## Integrantes del Grupo
 
 * **Integrante 1:** Xavier Cortes Marsa
 * **Integrante 2:** Luis Alfonso Serrano Valcárcel
 
-## Sitio Web Elegido
+## Sitios Webs Elegidos
 
-**URL:** https://es.indeed.com/
+**URL:**  https://es.indeed.com      # España
+          https://www.indeed.com     # EE.UU.
+          https://uk.indeed.com      # Reino Unido
+          https://de.indeed.com      # Alemania
+          
 **Idioma:** Español
 
 ## 🚀 Tecnologías usadas
